@@ -1,0 +1,119 @@
+---
+sidebar_position: 2
+title: Privacy Policy
+---
+
+# Privacy Policy
+
+**App:** Focus Timer Desk Clock  
+**Effective date:** May 2, 2026
+
+## 1. Introduction
+
+This Privacy Policy describes how WBB ("we," "us," or "our") collects, uses, stores, and protects information when you use the Focus Timer Desk Clock application (the "App") on iOS or Android devices.
+
+We respect your privacy. Please read this policy carefully. If you do not agree with the relevant practices, stop using those features or uninstall the App.
+
+## 2. Scope
+
+This policy applies to processing carried out through the version of the App distributed on the Apple App Store and Google Play, and future updates, to the extent of features actually enabled on your device.
+
+## 3. Information We May Process
+
+Depending on how you use the App and your device settings, the following types of information may be processed:
+
+### 3.1 On-device (local) data
+
+The App may store on your device information such as:
+
+- Timer settings, durations, display options, and interface preferences
+- Other app options you configure
+- Cached data or session state needed for the App to function
+
+This data is not sent to our servers unless you enable sync or backend API features (if introduced in the future) and we clearly disclose that in the App.
+
+### 3.2 In-app purchase (IAP) data
+
+When you buy a paid product or subscription in the App, Apple or Google processes payment and provides the App with transaction or entitlement status (for example which plan is active) through each store's mechanisms. We do not receive your full card number; payment details are handled by Apple/Google under their own policies.
+
+### 3.3 Technical and device data
+
+When the App uses the network (if applicable), servers or third-party services may receive typical technical information, such as:
+
+- Device type and operating system version
+- Preferred language / locale
+- Data needed to load content (for example images or animations) or call APIs
+
+**Advertising identifiers:** If the App does not integrate third-party advertising SDKs to track you for ads, we do not collect advertising identifiers for that purpose. If that changes, we will update this Policy and any required in-app or store disclosures.
+
+### 3.4 Sensors and system permissions
+
+The App may use device capabilities only when you grant permission and a feature actually needs them (for example motion/accelerometer for desk mode, screen brightness where the OS allows).
+
+:::note
+Store build configuration may declare additional permissions (for example camera, location, photo library). This Policy describes data collected through features actually in use. If the App does not use a declared permission, the publisher should update store permission disclosures to match reality and stay consistent with Apple App Privacy and Google Play Data safety.
+:::
+
+## 4. How We Use Information
+
+We process information to:
+
+- Provide and maintain timer, desk clock, and related features
+- Process paid products or subscriptions through Apple or Google
+- Improve reliability, security, and experience (where necessary and lawful)
+- Comply with legal obligations
+
+**We do not sell your personal information.**
+
+## 5. Legal Bases (where they apply to you)
+
+Depending on your region, bases for processing may include:
+
+- Performance of a contract or steps prior to it (providing the App and paid features)
+- Legitimate interests (security, abuse prevention), balanced against your rights
+- Your consent (for example enabling push notifications)
+- Legal obligation
+
+## 6. Sharing and Processors
+
+We may share data with:
+
+- **Apple Inc.** and **Google LLC** — IAP billing and app store operations
+
+They process data under their own privacy policies. We seek reasonable protections under contract or applicable service terms.
+
+## 7. Retention, Security, and Storage Period
+
+- Data stored locally on your device remains until you delete the App, clear app data in OS settings, or the App overwrites it.
+- Data on our servers (if any in the future) is kept only as long as needed to provide the service and meet legal requirements.
+
+We use reasonable technical and organizational measures to protect data. However, no transmission or storage method is completely secure.
+
+## 8. Your Rights
+
+Depending on laws in your country or state (for example GDPR in the EEA, CCPA/CPRA in California), you may have the right to:
+
+- Access, correct, or delete personal information we control
+- Restrict or object to certain processing
+- Withdraw consent where processing is consent-based
+- Lodge a complaint with a competent data protection authority
+
+To exercise rights, contact us using Section 12. For data that exists only on your device, you can often delete it directly via OS settings or by uninstalling the App.
+
+## 9. Children
+
+The App is not directed at children under 13 (or another minimum age under local law). We do not knowingly collect data from children. If you are a parent and believe your child has provided data, contact us so we can address it appropriately.
+
+## 10. International Transfers
+
+If you are outside the country where we operate, data may be processed in other countries (for example when using Apple, Google, or cloud providers). We use appropriate safeguards where required by law (for example standard contractual clauses).
+
+## 11. Changes to This Policy
+
+We may update this Privacy Policy. A new effective date will appear at the top. For material changes, we may also notify you in the App or via the store where appropriate.
+
+## 12. Contact
+
+Privacy requests or questions about this Policy:
+
+**Email:** [vincenttrandeveloper@gmail.com](mailto:vincenttrandeveloper@gmail.com)

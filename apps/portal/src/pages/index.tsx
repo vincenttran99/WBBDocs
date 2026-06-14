@@ -6,6 +6,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 const APPS: { id: string; name: string; description: string }[] = [
+  { id: 'focus-timer', name: 'Focus Timer Desk Clock', description: 'Support, Privacy Policy & Terms of Use' },
   { id: 'app1', name: 'App 1', description: 'Documentation for App 1' },
   { id: 'app2', name: 'App 2', description: 'Documentation for App 2' },
   // Add more apps here as you create them

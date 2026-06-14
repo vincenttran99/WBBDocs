@@ -12,6 +12,8 @@
     "start:portal": "npm run start --workspace=apps/portal",
     "start:app1": "npm run start --workspace=apps/app1",
     "start:app2": "npm run start --workspace=apps/app2",
+    "start:focus-timer": "npm run start --workspace=apps/focus-timer",
+    "build:focus-timer": "npm run build --workspace=apps/focus-timer",
     "serve": "npm run build && node scripts/serve.js"
   },
   "engines": {
