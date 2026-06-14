@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapps_focus_timer=self.webpackChunkapps_focus_timer||[]).push([["668"],{6502(e,s,r){r.r(s),r.d(s,{default:()=>f});var a=r(1085);r(4041);var u=r(4357),c=r(2347),p=r(1992),t=r(8150),n=r(7039);function f(e){return(0,a.jsx)(c.e3,{className:(0,u.A)(p.G.wrapper.docsPages),children:(0,a.jsx)(n.A,{children:(0,t.v)(e.route.routes)})})}}}]);
