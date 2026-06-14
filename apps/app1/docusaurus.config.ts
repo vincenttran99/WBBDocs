@@ -69,13 +69,7 @@ const config: Config = {
         alt: 'App 1 Logo',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          href: 'https://vincenttran99.github.io/WBBDocs/',
-          label: '← All Apps',
-          position: 'right',
-        },
-      ],
+      items: [],
     },
     footer: {
       style: 'dark',
