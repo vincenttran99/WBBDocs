@@ -75,11 +75,6 @@ const config: Config = {
           label: '← All Apps',
           position: 'right',
         },
-        {
-          href: 'https://github.com/vincenttran99/WBBDocs',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
