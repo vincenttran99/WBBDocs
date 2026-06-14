@@ -1,0 +1,60 @@
+.hero {
+  padding: 4rem 0;
+  text-align: center;
+  background: var(--ifm-hero-background-color);
+}
+
+@media screen and (max-width: 996px) {
+  .hero {
+    padding: 2rem;
+  }
+}
+
+.tagline {
+  font-size: 1.25rem;
+  color: var(--ifm-color-secondary-darkest);
+  margin-bottom: 0;
+}
+
+.appGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  padding: 3rem 0;
+}
+
+.appCard {
+  display: flex;
+  flex-direction: column;
+  padding: 1.75rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.appCard:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+  color: inherit;
+}
+
+.appCard h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.appCard p {
+  flex: 1;
+  color: var(--ifm-color-secondary-darkest);
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.readMore {
+  font-size: 0.9rem;
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
