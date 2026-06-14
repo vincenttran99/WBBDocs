@@ -99,12 +99,35 @@ To trigger a deploy manually:
 
 ---
 
-## Local Build Verification
+## Local Development & Testing
+
+### 1. Dev server — hot-reload (dùng khi viết docs)
 
 ```bash
-# Build all apps into dist/
-npm run build
-
-# Verify the output structure
-ls dist/           # index.html, app1/, app2/, ...
+npm run start:portal   # → http://localhost:3000/WBBDocs/
+npm run start:app1     # → http://localhost:3000/WBBDocs/app1/
+npm run start:app2     # → http://localhost:3000/WBBDocs/app2/
 ```
+
+Thay đổi file `.md` hay `.tsx` tự reload ngay. **Search không hoạt động ở dev mode** — chỉ hoạt động sau khi build.
+
+### 2. Build + serve từng app (test search)
+
+```bash
+npm run build:app1
+npm run serve --workspace=apps/app1   # → http://localhost:3000/WBBDocs/app1/
+```
+
+### 3. Serve toàn bộ `dist/` (giống GitHub Pages nhất)
+
+```bash
+npm run serve   # build tất cả apps rồi mở http://localhost:4000/WBBDocs/
+```
+
+Đây là cách chính xác nhất để kiểm tra trước khi push — cùng cấu trúc path với GitHub Pages:
+
+| URL | Nội dung |
+|---|---|
+| `http://localhost:4000/WBBDocs/` | Portal |
+| `http://localhost:4000/WBBDocs/app1/` | App 1 docs |
+| `http://localhost:4000/WBBDocs/app2/` | App 2 docs |
