@@ -1,27 +1,54 @@
-Focus Timer Desk Clock Support
-Welcome to the support page for Focus Timer Desk Clock.
+Noise Complaint: dB Meter Log Support
+Welcome to the support page for Noise Complaint: dB Meter Log.
 If you experience any issues, have questions, or want to provide feedback, please contact us using the information below.
+
 Contact Support
 Email: vincenttrandeveloper@gmail.com
 We aim to respond as quickly as possible.
+
 Common Support Topics
-Timer or clock display issues
+Noise recording or decibel measurement issues
+Audio or video evidence recording problems
+PDF report or ZIP evidence bundle generation
+Noise law data questions or jurisdiction lookup
 Subscription or in-app purchase questions
 App performance problems
 Feature requests and feedback
 Device compatibility questions
+
+Decibel Measurement
+The App measures noise levels using your device's built-in microphone. Readings are uncalibrated estimates and are intended for personal documentation purposes only — they are not certified legal-grade acoustic measurements. Accuracy may vary between devices. You can adjust the calibration offset in Settings to improve accuracy for your specific device.
+
+Noise Law Data
+The noise law database is pre-loaded and works offline. Data covers jurisdictions across the US, Germany, Japan, South Korea, UK, France, Singapore, and Australia, and is provided for general reference. Always verify current regulations with local authorities or a qualified professional before taking legal action.
+
+PDF & ZIP Export
+PDF report and ZIP evidence bundle export are Premium features. If export is unavailable, check your subscription status in Settings → Restore Purchases. Reports are generated entirely on your device and are not uploaded to our servers.
+
 Subscription & Billing
 Subscriptions and in-app purchases are managed through:
 Apple on iOS/iPadOS
 Google on Android
-For billing issues, cancellations, or refunds, please use the platform’s subscription management system.
+
+Available purchase options:
+Monthly subscription — $2.99/month
+Annual subscription — $19.99/year
+Lifetime unlock — $59.99 one-time purchase
+
+For billing issues, cancellations, or refunds, please use the platform's subscription management system:
+iOS: Settings → [Your Name] → Subscriptions
+Android: Play Store → Payments & subscriptions
+
 Troubleshooting
 Before contacting support, please try:
+Granting microphone permission in device Settings → Privacy → Microphone
 Restarting the app
 Updating to the latest app version
 Restarting your device
 Reinstalling the app if necessary
+Using Settings → Restore Purchases if Premium features are unavailable after a purchase
+
 Privacy & Terms
-Terms of Use available inside the app or associated listing
-Privacy practices are disclosed on the store listing
-Thank you for using Focus Timer Desk Clock.
+Privacy Policy and Terms of Use are available inside the app or on the associated store listing.
+
+Thank you for using Noise Complaint: dB Meter Log.
