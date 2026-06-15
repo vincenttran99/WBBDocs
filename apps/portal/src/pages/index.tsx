@@ -7,6 +7,7 @@ import styles from './index.module.css';
 
 const APPS: { id: string; name: string; description: string }[] = [
   { id: 'focus-timer', name: 'Focus Timer Desk Clock', description: 'Support, Privacy Policy & Terms of Use' },
+  { id: 'noise-complaint', name: 'Noise Complaint: dB Meter Log', description: 'Support, Privacy Policy & Terms of Use' },
   // Add more apps here as you create them
 ];
 

@@ -1,0 +1,152 @@
+---
+sidebar_position: 2
+title: Privacy Policy
+---
+
+# Privacy Policy
+
+**App:** Noise Complaint: dB Meter Log  
+**Effective date:** June 14, 2026
+
+## 1. Introduction
+
+This Privacy Policy describes how WBB ("we," "us," or "our") collects, uses, stores, and protects information when you use the Noise Complaint: dB Meter Log application (the "App") on iOS or Android devices.
+
+We respect your privacy. Please read this policy carefully. If you do not agree with the relevant practices, stop using those features or uninstall the App.
+
+## 2. Scope
+
+This policy applies to processing carried out through the version of the App distributed on the Apple App Store and Google Play, and future updates, to the extent of features actually enabled on your device.
+
+## 3. Information We May Process
+
+Depending on how you use the App and your device settings, the following types of information may be processed:
+
+### 3.1 On-device (local) data
+
+The App is designed as an offline-first tool. All noise-related data is stored locally on your device and is not sent to our servers. This includes:
+
+- Noise incident recordings (audio files in m4a format)
+- Incident metadata: timestamps, duration, peak and average decibel levels, noise type tags, and your notes
+- Property information you enter (property name, address, unit number, landlord email — used only for generating PDF reports on your device)
+- App settings, calibration offsets, and interface preferences
+- Jurisdiction selection and noise law reference data (pre-loaded, offline)
+- Cached data or session state needed for the App to function
+
+This data remains on your device unless you explicitly export it (e.g., share a PDF or ZIP bundle) using OS sharing mechanisms.
+
+### 3.2 Microphone data
+
+The App requests microphone access to measure ambient noise levels (decibels) and record audio evidence of incidents. Audio files are stored locally on your device. We do not upload audio recordings to our servers.
+
+### 3.3 Camera data (Premium feature)
+
+If you use the video recording feature (available to Premium subscribers), the App requests camera access to record video evidence with a decibel overlay. Video files are stored locally on your device. We do not upload video recordings to our servers.
+
+### 3.4 Location data
+
+The App may request approximate or precise location access to automatically detect your jurisdiction and look up applicable local noise regulations. Location data is used only for this purpose and is not stored persistently or transmitted to our servers. You may decline location access and manually select your jurisdiction instead.
+
+### 3.5 Analytics and crash reporting
+
+The App uses **Firebase Analytics** and **Firebase Crashlytics** (provided by Google LLC) to collect anonymous usage statistics and crash reports. This helps us improve app reliability and user experience. Data collected by Firebase may include:
+
+- Device type and operating system version
+- App version and session information
+- Crash stack traces and error logs
+- Aggregated feature usage events (e.g., export triggered, recording started)
+
+This data is processed by Google under their privacy policies. We do not associate analytics data with individually identifiable noise recordings or personal information you enter in the App.
+
+### 3.6 In-app purchase (IAP) data
+
+When you purchase a subscription or one-time unlock in the App, Apple or Google processes payment and provides the App with transaction or entitlement status through each store's mechanisms. We do not receive your payment card details; payment information is handled by Apple/Google under their own policies.
+
+### 3.7 Push notifications
+
+If you grant notification permission, the App may use Apple Push Notification service (APNs) or Firebase Cloud Messaging (FCM) to send you optional notifications. You can disable notifications at any time in your device settings.
+
+### 3.8 Technical and device data
+
+When the App connects to the network (e.g., for analytics or push notifications), servers or third-party services may receive typical technical information such as device type, operating system version, and preferred language/locale.
+
+**Advertising identifiers:** The App does not integrate third-party advertising SDKs for behavioral tracking or ad targeting. We do not collect advertising identifiers for that purpose. If that changes, we will update this Policy.
+
+## 4. Permissions and How We Use Them
+
+| Permission | Purpose |
+|---|---|
+| **Microphone** | Required to measure noise levels and record audio evidence. Without this permission the core recording feature is unavailable. |
+| **Camera** | Required for the Premium video recording feature. You may decline camera access and still use all other features. |
+| **Location (When In Use)** | Optional. Used solely to auto-detect your jurisdiction for noise law lookup. You may decline and select your jurisdiction manually. |
+
+## 5. How We Use Information
+
+We process information to:
+
+- Provide and maintain noise measurement, incident logging, PDF/ZIP report generation, and related features
+- Process paid products or subscriptions through Apple or Google
+- Improve reliability and user experience via anonymous crash reporting and analytics (Firebase)
+- Comply with legal obligations
+
+**We do not sell your personal information.**
+
+## 6. Legal Bases (where they apply to you)
+
+Depending on your region, bases for processing may include:
+
+- Performance of a contract or steps prior to it (providing the App and paid features)
+- Legitimate interests (security, crash diagnostics, abuse prevention), balanced against your rights
+- Your consent (for example enabling push notifications or location access)
+- Legal obligation
+
+## 7. Sharing and Processors
+
+We may share data with:
+
+- **Apple Inc.** and **Google LLC** — IAP billing and app store operations
+- **Google LLC (Firebase)** — anonymous crash reporting and analytics
+
+They process data under their own privacy policies. We seek reasonable protections under contract or applicable service terms.
+
+**We do not share noise recordings, incident data, property information, or other on-device data with third parties.**
+
+## 8. Data Accuracy Disclaimer
+
+Decibel readings produced by the App are uncalibrated estimates based on device microphone input and are suitable for personal documentation purposes only. They are not certified legal-grade acoustic measurements. Noise law data is provided for general reference and may not reflect the most current local regulations. Always consult local authorities or a qualified professional for legal advice.
+
+## 9. Retention, Security, and Storage Period
+
+- Data stored locally on your device remains until you delete the App, clear app data in OS settings, or the App overwrites it.
+- Analytics and crash data retained by Firebase follows Google's data retention policies.
+
+We use reasonable technical and organizational measures to protect data. However, no storage method is completely secure.
+
+## 10. Your Rights
+
+Depending on laws in your country or state (for example GDPR in the EEA, CCPA/CPRA in California), you may have the right to:
+
+- Access, correct, or delete personal information we control
+- Restrict or object to certain processing
+- Withdraw consent where processing is consent-based
+- Lodge a complaint with a competent data protection authority
+
+To exercise rights, contact us using Section 14. For data that exists only on your device, you can delete it directly via OS settings or by uninstalling the App.
+
+## 11. Children
+
+The App is not directed at children under 13 (or another minimum age under local law). We do not knowingly collect data from children. If you are a parent and believe your child has provided data, contact us so we can address it appropriately.
+
+## 12. International Transfers
+
+If you are outside the country where we operate, data may be processed in other countries (for example when using Apple, Google/Firebase, or cloud providers). We use appropriate safeguards where required by law (for example standard contractual clauses).
+
+## 13. Changes to This Policy
+
+We may update this Privacy Policy. A new effective date will appear at the top. For material changes, we may also notify you in the App or via the store where appropriate.
+
+## 14. Contact
+
+Privacy requests or questions about this Policy:
+
+**Email:** [vincenttrandeveloper@gmail.com](mailto:vincenttrandeveloper@gmail.com)
