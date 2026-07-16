@@ -2,7 +2,7 @@
 
 A multi-app documentation portal built with [Docusaurus](https://docusaurus.io/), hosted on GitHub Pages. Each app has its own independent docs site (navbar, sidebar, favicon, search) under a shared domain.
 
-**Live site:** https://vincenttran99.github.io/WBBDocs/
+**Live site:** https://tranbaphuc99.github.io/WBBDocs/
 
 ---
 
@@ -47,7 +47,7 @@ npm run build
 
 2. **Update `apps/my-app/docusaurus.config.ts`:**
    - Set `baseUrl: '/WBBDocs/my-app/'`
-   - Set `url: 'https://vincenttran99.github.io'`
+   - Set `url: 'https://tranbaphuc99.github.io'`
    - Disable blog: `blog: false`
    - Add `routeBasePath: '/'` to the docs preset
    - Add the local search plugin (copy from an existing app)
