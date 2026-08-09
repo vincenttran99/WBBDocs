@@ -12,6 +12,8 @@
     "build:focus-timer": "npm run build --workspace=apps/focus-timer",
     "start:noise-complaint": "npm run start --workspace=apps/noise-complaint",
     "build:noise-complaint": "npm run build --workspace=apps/noise-complaint",
+    "start:psychic-ai": "npm run start --workspace=apps/psychic-ai",
+    "build:psychic-ai": "npm run build --workspace=apps/psychic-ai",
     "serve": "npm run build && node scripts/serve.js"
   },
   "engines": {
