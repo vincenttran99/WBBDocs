@@ -1,13 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: Privacy Policy
-slug: /
 ---
 
 # Privacy Policy
 
 **App:** Psychic AI  
-**Last updated:** 9 August 2026
+**Last updated:** 11 August 2026
 
 This Privacy Policy outlines how Psychic AI ("we," "us," or "our") collects, uses, discloses, and protects the personal information of users ("you" or "your") when using the Psychic AI mobile application ("the App"). We are committed to respecting your privacy and ensuring the security of your personal information. By using the App, you consent to the practices described in this Privacy Policy.
 
@@ -25,6 +24,35 @@ We use this information for the following purposes:
 - To communicate with you, respond to inquiries, and deliver customer support.
 - To improve the App, troubleshoot technical issues, and analyze usage patterns.
 - To ensure the security and integrity of the App and its users.
+
+## Community Sharing
+
+Psychic AI includes a community feed. After you receive a reading, you decide whether to publish that question and its answer to the community or keep it private.
+
+- Sharing is **opt-in**. Nothing is published to the community unless you choose to share it.
+- Readings you do not share are not visible to other users.
+- Content you do publish becomes visible to other users of the App, along with any name or profile details shown on your posts.
+- You can ask us to remove any shared post at any time — see [Data Retention and Deletion](#data-retention-and-deletion).
+
+Please avoid including personal details you would not want others to see in a question you intend to share.
+
+## Data Retention and Deletion
+
+We keep your personal information only as long as your account is active or as long as needed to provide the App, and afterwards only where we are required to retain records by law.
+
+**You can request deletion of your data at any time.** We handle deletion requests by email:
+
+1. Email **[vincenttrandeveloper@gmail.com](mailto:vincenttrandeveloper@gmail.com)** from the email address associated with your Psychic AI account.
+2. Use the subject line **"Data Deletion Request"**.
+3. State whether you want your **entire account and all associated data** deleted, or only **specific data** (for example one or more shared community posts, or your reading history). For specific items, include enough detail for us to identify them.
+
+We may ask you to confirm the request from your registered email address before acting on it, so that nobody else can delete your data. We complete verified requests within **30 days** and email you once the deletion is done.
+
+Deleting your account removes your account record, profile information, your questions and the answers you received, and your community posts from our active systems. Residual copies may remain in encrypted backups for a limited period until those backups expire on their normal rotation schedule, and we may retain the minimum records required by law (for example purchase records). Deletion is permanent and cannot be undone.
+
+Some data is outside our control: purchase and subscription records are held by Apple and Google under their own policies, and data stored only on your device is removed when you uninstall the App or clear its data in your device settings.
+
+Full step-by-step instructions are available on our [Support page](/WBBDocs/psychic-ai/).
 
 ## Data Sharing and Disclosure
 
@@ -49,6 +77,8 @@ We reserve the right to modify or update this Privacy Policy at any time. Any ch
 
 ## Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at [vincenttrandeveloper@gmail.com](mailto:vincenttrandeveloper@gmail.com). We will make reasonable efforts to address your inquiries and resolve any privacy-related issues.
+If you have any questions, concerns, or requests regarding this Privacy Policy — including requests to access or delete your data — please contact us at [vincenttrandeveloper@gmail.com](mailto:vincenttrandeveloper@gmail.com). We will make reasonable efforts to address your inquiries and resolve any privacy-related issues.
+
+See also our [Support page](/WBBDocs/psychic-ai/) for step-by-step data deletion instructions.
 
 By continuing to use the Psychic AI App, you signify your acceptance of this Privacy Policy.
