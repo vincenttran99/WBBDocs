@@ -1,7 +1,6 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: Support
-slug: /
 ---
 
 # Psychic AI — Support
@@ -91,7 +90,7 @@ Before contacting support, please try:
 
 ## Privacy
 
-- [Privacy Policy](/WBBDocs/psychic-ai/privacy-policy)
+- [Privacy Policy](/WBBDocs/psychic-ai/)
 
 ---
 

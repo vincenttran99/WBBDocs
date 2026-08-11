@@ -1,6 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: Privacy Policy
+slug: /
 ---
 
 # Privacy Policy
@@ -52,7 +53,7 @@ Deleting your account removes your account record, profile information, your que
 
 Some data is outside our control: purchase and subscription records are held by Apple and Google under their own policies, and data stored only on your device is removed when you uninstall the App or clear its data in your device settings.
 
-Full step-by-step instructions are available on our [Support page](/WBBDocs/psychic-ai/).
+Full step-by-step instructions are available on our [Support page](/WBBDocs/psychic-ai/support).
 
 ## Data Sharing and Disclosure
 
@@ -79,6 +80,6 @@ We reserve the right to modify or update this Privacy Policy at any time. Any ch
 
 If you have any questions, concerns, or requests regarding this Privacy Policy — including requests to access or delete your data — please contact us at [vincenttrandeveloper@gmail.com](mailto:vincenttrandeveloper@gmail.com). We will make reasonable efforts to address your inquiries and resolve any privacy-related issues.
 
-See also our [Support page](/WBBDocs/psychic-ai/) for step-by-step data deletion instructions.
+See also our [Support page](/WBBDocs/psychic-ai/support) for step-by-step data deletion instructions.
 
 By continuing to use the Psychic AI App, you signify your acceptance of this Privacy Policy.
