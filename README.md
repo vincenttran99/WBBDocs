@@ -6,7 +6,7 @@ A multi-app documentation portal built with [Docusaurus](https://docusaurus.io/)
 
 ---
 
-## Structure
+## Structure:
 
 ```
 WBBDocs/
